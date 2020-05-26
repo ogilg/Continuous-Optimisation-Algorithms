@@ -3,7 +3,7 @@ Implementation of some continuous optimisation algorithms using python and NumPy
 
 Root-finding 1 dimension:
 - Interval Bisection
-- NewTon's method
+- Newton's method
 - Secant method
 
 Root-finding d dimensions:
